@@ -1,0 +1,7 @@
+16, CPU
+22, CPU
+18, Finlay
+20, Finlay
+18, Finlay
+16, Finlay
+18, milo & hugo
