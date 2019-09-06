@@ -1,2 +1,2 @@
-# finlay-test
+# snazzy-globe
 A pretty epic repository.
